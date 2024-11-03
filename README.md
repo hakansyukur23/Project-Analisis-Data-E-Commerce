@@ -8,22 +8,40 @@
 
 [💭 Problem](#problem)
 
+[📃 Data Wrangling](#Data_Wrangling)
+
 [🖥️ Power BI Dashboard](#Power-BI-Dashboard)
 
 [🏷️ Conclusion](#conclusion)
 
 
 
-##📤 Introduction
+## 📤 Introduction
 
 This project focuses on the analysis of a public dataset provided by Olist, a Brazilian e-commerce company. The dataset includes information about customer orders, products, payments, reviews, and more. The goal of this project is to extract meaningful insights from the data that can help improve business strategies and customer experience.
 
-##💭 Problem
+## 💭 Problem
+
+- What are the top 10 product categories with the highest order volumes?
+
+- What is the total number of orders received by sellers in each state?
+
+- How many total orders are made using each payment type?
+
+- Which sellers have over 200 sales?
+
+- What is the average review score from customers?
+
+## 📃 Data Wrangling
+
+- Gathering Data
+- Assesing Data
+- Cleaning Data
 
 ## 🖥️ Power BI Dashboard
 ![PowerBI Dashboard](Picture/Visualization.png)
 
-##🏷️ Conclusion
+## 🏷️ Conclusion
 
 - **Product Demand & Marketing**: Identifying the top 10 product categories by order volume helps businesses focus their marketing and sales efforts on the most in-demand products.
   
