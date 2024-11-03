@@ -34,7 +34,7 @@ This project focuses on the analysis of a public dataset provided by Olist, a Br
 
 ## 📃 Data Wrangling
 
-![Data Wrangling](Picture/DataWrangling.jpg)
+![Data Wrangling](Picture/Data_Wrangling.jpg)
 
 - Gathering Data
 - Assesing Data
